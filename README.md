@@ -34,8 +34,14 @@ To install and run the project locally, follow these steps:
     ```bash
     cd leadstracker
     ```
+3. Open the site in visual studio:
+    ```bash
+    code .
+        ```
 
 3. Start the live server:
+  ``` This will open your app on your default browser
+  ```
 
 ## Contributing
 - Contributions are welcome! Please follow these steps to contribute:
